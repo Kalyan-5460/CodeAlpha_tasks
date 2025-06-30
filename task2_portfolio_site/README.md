@@ -27,7 +27,7 @@ This task focused on building a **personal and responsive Portfolio Website** us
 
 🔗 Live Links  
 🔥 [GitHub Repo](https://github.com/Kalyan-5460/CodeAlpha_tasks/tree/main/task2_portfolio_site)  
-💼 LinkedIn Post (coming soon...)
+💼 [LinkedIn Post](https://www.linkedin.com/posts/malapareddy-kalyan-venkat-vinay-12a41b292_codealpha-frontenddevelopment-portfoliowebsite-activity-7345510678121562114-zFjm?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAEblq_IBNPC_f2HbopMiFU-z9w4v3NAe1oM&utm_campaign=copy_link)
 
 ---
 
