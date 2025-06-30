@@ -26,7 +26,7 @@ This task focused on creating a **functional and responsive Calculator App** usi
 
 🔗 Live Links  
 🔥 [GitHub Repo](https://github.com/Kalyan-5460/CodeAlpha_tasks/tree/main/task1_calculator)  
-💼 [LinkedIn Post] (https://www.linkedin.com/posts/malapareddy-kalyan-venkat-vinay-12a41b292_codealpha-frontenddevelopment-calculator-activity-7345505696991322112-kCG-?utm_source=share&utm_medium=member_android&rcm=ACoAAEblq_IBNPC_f2HbopMiFU-z9w4v3NAe1oM)
+💼 [LinkedIn Post](https://www.linkedin.com/posts/malapareddy-kalyan-venkat-vinay-12a41b292_codealpha-frontenddevelopment-calculator-activity-7345505696991322112-kCG-?utm_source=share&utm_medium=member_android&rcm=ACoAAEblq_IBNPC_f2HbopMiFU-z9w4v3NAe1oM)
 
 ---
 
