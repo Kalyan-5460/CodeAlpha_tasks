@@ -16,7 +16,7 @@ Each task was built using **HTML, CSS, and JavaScript** with a focus on function
 - Real-time result display while typing  
 - Clear (`C`) and delete (`⌫`) functionality
 
-🔗 [GitHub Link](https://github.com/Kalyan-5460/codealpha_tasks/tree/main/task1_calculator)
+🔗 [GitHub Link](https://github.com/Kalyan-5460/CodeAlpha_tasks/tree/main/task1_calculator)
 
 ---
 
@@ -27,7 +27,7 @@ Each task was built using **HTML, CSS, and JavaScript** with a focus on function
 - Integrated resume **download button**  
 - Styled with dark modern theme and soft animations
 
-🔗 [GitHub Link](https://github.com/Kalyan-5460/codealpha_tasks/tree/main/task2_portfolio_site)
+🔗 [GitHub Link](https://github.com/Kalyan-5460/CodeAlpha_tasks/tree/main/task2_portfolio_site)
 
 ---
 
@@ -39,7 +39,7 @@ Each task was built using **HTML, CSS, and JavaScript** with a focus on function
 - Minimalistic dark UI with smooth interaction  
 - Accepts `.mp3` and `.m4a` audio formats
 
-🔗 [GitHub Link](https://github.com/Kalyan-5460/codealpha_tasks/tree/main/task3_music_player)
+🔗 [GitHub Link](https://github.com/Kalyan-5460/CodeAlpha_tasks/tree/main/task3_music_player)
 
 ---
 
